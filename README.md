@@ -17,6 +17,8 @@
 
 [《半小时漫画经济学》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_economics)——生活常识篇
 
+[《半小时漫画经济学2》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_economics_Financial_crisis)——金融危机篇
+
 [《蔡康永的说话之道》](https://github.com/IammyselfBOOKS/CAI_kangyong_way_of_speaking)
 
 [《让我留在你身边》](https://github.com/IammyselfBOOKS/Let_me_stay_with_you)
