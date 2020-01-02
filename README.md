@@ -9,7 +9,13 @@
 
 [《大男女》](https://github.com/IammyselfBOOKS/Great_man_and_woman)
 
-[《半小时漫画经济学——生活常识篇》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_economics)
+[《半小时漫画中国史》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_-chinese_history)——从春秋到楚汉之争
+
+[《半小时漫画中国史2》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_-chinese_history_2)——汉朝到两晋
+
+[《半小时漫画中国史3》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_-chinese_history_3)——南北朝到大唐
+
+[《半小时漫画经济学》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_economics)——生活常识篇
 
 [《蔡康永的说话之道》](https://github.com/IammyselfBOOKS/CAI_kangyong_way_of_speaking)
 
