@@ -1,6 +1,16 @@
 # 每年读的电子书汇总
-## 2019年
+
 ---
+## 2017年
+[《互联网时代》](https://github.com/IammyselfBOOKS/Internet_age)
+
+[《Google将带来什么？》](https://github.com/IammyselfBOOKS/What_Would_Google_Do)
+
+---
+## 2018年
+
+---
+## 2019年
 [《把时间当作朋友》](https://github.com/IammyselfBOOKS/Time_as_a_friend)
 
 [《自学是门手艺》](https://github.com/IammyselfBOOKS/The-craft-of-selfteaching)
