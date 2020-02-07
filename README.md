@@ -8,6 +8,9 @@
 
 ---
 ## 2018年
+[《计算机是怎么跑起来的》](https://github.com/IammyselfBOOKS/How_computers_work)
+
+[《图解HTTP》](https://github.com/IammyselfBOOKS/The_illustration_HTTP)
 
 ---
 ## 2019年
