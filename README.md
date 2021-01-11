@@ -22,6 +22,24 @@
 
 [《大男女》](https://github.com/IammyselfBOOKS/Great_man_and_woman)
 
+[極致挑逗：雙人共撫全圖解120招](https://github.com/IammyselfBOOKS/Acme-tease)
+
+[这个姿势了不起](https://github.com/IammyselfBOOKS/It-s-a-great-pose)
+
+[体贴X爱秘技：加藤鹰的终极术](https://github.com/IammyselfBOOKS/The-secret-of-considerate-sex)
+
+[性生活常识必读全书](https://github.com/IammyselfBOOKS/Sex-knowledge-is-a-must-read)
+
+[性学观止](https://github.com/IammyselfBOOKS/Sexology-wondrous)
+
+[我们的性](https://github.com/IammyselfBOOKS/Our-Sex)
+
+[漫画我们的性](https://github.com/IammyselfBOOKS/Our-Sex-comic)
+
+[爱经](https://github.com/IammyselfBOOKS/Kamasutra)
+
+[高潮一直来一直来](https://github.com/IammyselfBOOKS/The-orgasms-keep-coming-and-going)
+
 [《半小时漫画中国史》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_-chinese_history)——从春秋到楚汉之争
 
 [《半小时漫画中国史2》](https://github.com/IammyselfBOOKS/Half_hour_comic_book_-chinese_history_2)——汉朝到两晋
@@ -37,3 +55,7 @@
 [《让我留在你身边》](https://github.com/IammyselfBOOKS/Let_me_stay_with_you)
 
 [《少年的你，如此美丽》](https://github.com/IammyselfBOOKS/Young_you_so_beautiful)——电影《少年的你》据此改编
+
+---
+## 2020
+[《你干吗在乎别人怎么想？》](https://github.com/IammyselfBOOKS/What_do_you_care_what_other_people_think)
